@@ -1,9 +1,8 @@
 # curso_git
 ##testes Houston S. Fernandes
 1. Para começar este trabalho, inicialmente criei o diretório testes_git:
-
-*$ mkdir testes_git *
-*$ cd testes_git *
+  *$ mkdir testes_git *
+  *$ cd testes_git *
 
 2. Foi iniciado o controle de versão neste diretório com o comando **$ git init**
 
@@ -12,13 +11,12 @@
   *arq2.txt
   *arq3.txt
 
-4. Foi consultado o *status* dos arquivos utilizando o comando: **$ git status**, sendo informado que os arquivos estavam como *'untracked'*, não relacionados.
+4. Foi consultado o *status* dos arquivos utilizando o comando: **$ git status**, sendo informado que os arquivos estavam como *untracked*, não relacionados.
 
 5. Foram adicionados os arquivos no repositório com o comando **$ git add .**, que adiciona todos os arquivos do diretório atual, passando seus status para *staged*, prontos para serem commitados.
 
 6. Então, para passá-los para o repositório utilizei o comando **$ git commit -m'messagem informando o commit'**.
-
-Também foram realizados, testes alterando arquivos e verificando a mudança do estado para *modified*, precisando este arquivo ser novamente *adicionado* ao repositório, através de *commit* para fazer parte da próxima versão.
+  Também foram realizados, testes alterando arquivos e verificando a mudança do estado para *modified*, precisando este arquivo ser novamente *adicionado* ao repositório, através de *commit* para fazer parte da próxima versão.
  
 7. Para passar o trabalho para o **GITHUB**, foram realizadas as seguintes etapas:
   1. Criar conta: [GITHUB](github.com) 
