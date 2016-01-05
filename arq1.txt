@@ -1,4 +1,6 @@
 arquivo
 arquivo1 mdificado no master e não no branch func1
 alterando para passar no github
-
+adicionada 1 dfdfdfdfdgdg
+dfdfdfdfd
+f
